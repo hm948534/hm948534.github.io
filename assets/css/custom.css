@@ -4,7 +4,8 @@
 
 .nav-link {
   display: block;
-  width: 25%;
+  width: 20%;
+  color: white;
 }
 
 
@@ -26,7 +27,11 @@
 
 
 
-
+.page-header {
+ background-image: url("/assets/images/DSC_0231.jpg");
+ background-size: cover;
+ font-family: 'Source Serif Pro', serif; 
+}
 
 
 
@@ -37,8 +42,9 @@
 
 
 body {
-  color: red;
+  color: black;
    background-color: blue;
+  font-family: 'Source Serif Pro', serif;
 }
 
 .main-content {

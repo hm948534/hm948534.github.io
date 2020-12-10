@@ -1,3 +1,21 @@
+.pictures {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image_box {
+  width: 49%;
+  margin-bottom: 5px;
+}
+
+.image_box:nth-child(odd) {
+  margin-right: 2%;
+}
+
+.gallery_image {
+  object-fit: cover;
+}
+
 .nav-content {
   display: flex;
 }
@@ -7,24 +25,6 @@
   width: 20%;
   color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -15,9 +15,9 @@ Cynthia Breazeal: She was a computer scientist and electrical engineer that work
 Caterina van Hemessen: She was the earliest female Flemish painter and is said to have created the firts self-portait around 1550.
 Jane Austin: Even though she is an extremely known author, her name deserves a spot on this list because of the barriers she broke as an author.
 She wrote a lot about women's roles in society at that time and had numerous feminist themes throughout her writing.
-She is best known for her novels Pride and Prejudice and Emma.
+She is best known for her novels *Pride and Prejudice* and *Emma*.
 Mary Shelly: Not only was she was a pioneering female author, but also an essayist, short story writer, biographer, etc.
-She is best know for her novels Frankenstein and The Modern Prometheus.
+She is best know for her novels *Frankenstein* and *The Modern Prometheus*.
 Octavia Butler: She broke down barriers for not only sex, but also race. She was the first sci-fi writer to recieve MacArthur Fellowship. 
 She was able to capture the experience of not only a female, but a black female during her time.
 

@@ -18,31 +18,25 @@
 
 .nav-content {
   display: flex;
+  font-family: 'Source Serif Pro', serif; 
 }
 
 .nav-link {
-  display: block;
-  width: 25%;
-  color: black;
+ display: block;
+ width: 20%; 
+ color: white; 
 }
 
-
-
-
-
-
-
-
-
-
-
+.page-header {
+ background-image: url("/assets/images/DSC_0231.jpg");
+ background-size: cover;
+ font-family: 'Source Serif Pro', serif; 
+}
 
 body {
-  color: black;
-   background-color: white;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
-.main-content {
-  background-color: green;
+nav {
+  background-color: #163205;
 }
